@@ -71,7 +71,7 @@ nav#navbar {
     float: inline-end;
 }
 .back{
-background: url('header-bg-2.png') no-repeat 0 0;
+background: url('img/header-bg-2.png') no-repeat 0 0;
 background-repeat: no-repeat;
 background-size: cover;
 }
